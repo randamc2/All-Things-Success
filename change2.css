@@ -1,0 +1,74 @@
+body{
+  color: white;
+  margin: auto;
+  background-color: black;
+  text-align: center;
+
+}
+#intro{
+  background-image: url("finalpics/sky.jpg");
+}
+
+h1{
+  text-align: center;
+  font-size: 30px;
+  color: white;
+}
+p{
+  color: white;
+  font-size: 25px;
+  font-style: helvetica;
+
+}
+.mirandapic{
+  -webkit-transform: rotate(360deg);
+    -moz-transform: rotate(360deg);
+    -o-transform: rotate(360deg);
+    -ms-transform: rotate(360deg);
+    transform: rotate(360deg);
+}
+.kaleepic{
+  -webkit-transform: rotate(360deg);
+    -moz-transform: rotate(360deg);
+    -o-transform: rotate(360deg);
+    -ms-transform: rotate(360deg);
+    transform: rotate(360deg);
+
+}
+.links{
+  margin-top: 20px;
+      background-color:yellow;
+      color:white;
+      font-size: 40px;
+      font-family: "Calibri";
+      text-align: center;
+
+}
+
+#army{
+border: 1px solid white;
+background-image: url("finalpics/fye.jpg");
+font-size: 23px;
+color: white;
+
+}
+
+nav a{
+  margin-right: 50px
+}
+#aboutUs{
+border: 3px solid yellow;
+font-size: 25px;
+
+}
+.heading{
+color: yellow
+}
+#navy{
+border: 1px solid yellow;
+}
+#warning {
+color:yellow;
+text-decoration: underline;
+font-size: 26px;
+}
